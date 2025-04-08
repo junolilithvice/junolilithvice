@@ -1,5 +1,4 @@
-## hello, my name is juno vice!
+## hello, my name is juno!
 
-\n🔭 i'm a freshman computer science major
-\n🌱 i'm interested in machine learning, automation, and ai
-\n⚡ i'm currently learning python!
+🔭 i'm a freshman computer science major
+⚡ i'm currently learning python!
